@@ -1,0 +1,10 @@
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\bin\Debug\CaptureImageTool.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\bin\Debug\CaptureImageTool.pdb
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CSharpWin.CaptureImageTool.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CSharpWin.ColorSelector.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CSharpWin.DrawToolsControl.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CSharpWin.Properties.Resources.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CaptureImageTool.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\CaptureImageTool\obj\Debug\CaptureImageTool.pdb

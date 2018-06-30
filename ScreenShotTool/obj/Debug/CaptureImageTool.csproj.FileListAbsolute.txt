@@ -1,0 +1,5 @@
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ScreenShotTool\obj\Debug\CaptureImageTool.csprojResolveAssemblyReference.cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ScreenShotTool\obj\Debug\CSharpWin.CaptureImageTool.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ScreenShotTool\obj\Debug\CSharpWin.ColorSelector.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ScreenShotTool\obj\Debug\CSharpWin.DrawToolsControl.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ScreenShotTool\obj\Debug\CaptureImageTool.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\MetroFramework.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\MetroFramework.pdb
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.TextBoxWithTitle.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.pdb

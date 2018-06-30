@@ -1,0 +1,32 @@
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\bin\Debug\MetroSet UI.dll.config
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\metro\MetroSet-UI-master\MetroSet-UI-master\MetroSet UI\obj\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\bin\Debug\MetroSet UI.dll.config
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\obj\Debug\MetroSet UI.csprojResolveAssemblyReference.cache
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\SerialPort\MetroSetUI\obj\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\bin\Debug\MetroSet UI.dll.config
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\ToolSet\MetroSetUI\obj\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll.config
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.dll
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll.config
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csprojResolveAssemblyReference.cache
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.dll

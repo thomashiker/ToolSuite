@@ -1,0 +1,20 @@
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\MetroSet UI.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.MetroGrid.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.MetroTextBox.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.TextBoxWithTitle.resources
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Users\hiker\Documents\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.pdb
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.dll
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\ControlLibrary.pdb
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\bin\Debug\MetroSet UI.dll
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.MetroGrid.resources
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.MetroTextBox.resources
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.TextBoxWithTitle.resources
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.dll
+D:\GitHub\ToolSuite\ToolSuite\ControlLibrary\obj\Debug\ControlLibrary.pdb

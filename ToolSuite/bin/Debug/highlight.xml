@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HighLights>
+  <HighLight>
+      <Syntax    Value="error|err|warnning|warn|exception|fault" />
+      <ForeColor Color="FFFFFF" />
+      <BackColor Color="F52727" />
+      <FontStyle Bold="true" Italic="true" Underline="true" Strikeout="true" />
+  </HighLight>
+  <HighLight>
+      <Syntax    Value="warn" />
+      <ForeColor Color="FFFFFF" />
+      <BackColor Color="F52727" />
+      <FontStyle Bold="true" Italic="true" Underline="true" Strikeout="true" />
+  </HighLight>
+</HighLights>

@@ -1,0 +1,34 @@
+<Themes>
+  <Theme Name="Favourite" GUID="{edb0a5fe-0593-4894-9c4d-6be82cdb0105}">
+      <Color Name="Theme">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="Style">
+        <Background Type="CT_RAW" Source="FF00AEDB" />
+      </Color>
+      <Color Name="FastColoredTextBoxBackground">
+        <Background  Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="FastColoredTextBoxForeground">
+        <Background  Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="FastColoredTextBoxIndent">
+        <Background  Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="FastColoredTextBoxCaret">
+        <Background  Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="FastColoredTextBoxBookmark">
+        <Background  Type="CT_RAW" Source="FF6CE26C" />
+      </Color>
+      <Color Name="FastColoredTextBoxSelection">
+        <Background  Type="CT_RAW" Source="FF6CE26C" />
+      </Color>
+      <Color Name="FastColoredTextBoxLineNumber">
+        <Background  Type="CT_RAW" Source="FF2B91AF" />
+      </Color>
+            <Color Name="FastColoredTextBoxServiceLine">
+        <Background  Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+  </Theme>
+</Themes>

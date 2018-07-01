@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cmdlist>
+  <CMD cmd="123123213" discription="hello" />
+  <CMD cmd="1" discription="hello" />
+  <CMD cmd="2" discription="world" />
+  <CMD cmd="" discription="" />
+</cmdlist>

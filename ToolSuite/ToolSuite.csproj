@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{40793A27-478B-4357-B4C3-FC8943131F3D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToolSuite</RootNamespace>
+    <AssemblyName>ToolSuite</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>terminal_root_128px.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="ToolSuite, Version=2.0.6665.26832, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking.ThemeVS2013">
+      <HintPath>..\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutDialog.Designer.cs">
+      <DependentUpon>AboutDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaletteDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaletteDialog.Designer.cs">
+      <DependentUpon>PaletteDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorConvert.cs" />
+    <Compile Include="CustomStyleManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DummyDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DummyDoc.Designer.cs">
+      <DependentUpon>DummyDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DummyOutputWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DummyOutputWindow.Designer.cs">
+      <DependentUpon>DummyOutputWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DummyPropertyWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DummyPropertyWindow.Designer.cs">
+      <DependentUpon>DummyPropertyWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DummySolutionExplorer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DummySolutionExplorer.Designer.cs">
+      <DependentUpon>DummySolutionExplorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customization\DockHelper.cs" />
+    <Compile Include="FindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindForm.Designer.cs">
+      <DependentUpon>FindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotifyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotifyForm.Designer.cs">
+      <DependentUpon>NotifyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewForm.Designer.cs">
+      <DependentUpon>NewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceiveSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiveSetting.Designer.cs">
+      <DependentUpon>ReceiveSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForm.Designer.cs">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppearanceSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AppearanceSetting.Designer.cs">
+      <DependentUpon>AppearanceSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyntaxHighlight.cs" />
+    <Compile Include="ToolWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToolWindow.designer.cs">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaletteDialog.resx">
+      <DependentUpon>PaletteDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DummyDoc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DummyDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DummyOutputWindow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DummyOutputWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DummyPropertyWindow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DummyPropertyWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DummySolutionExplorer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DummySolutionExplorer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindForm.resx">
+      <DependentUpon>FindForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotifyForm.resx">
+      <DependentUpon>NotifyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewForm.resx">
+      <DependentUpon>NewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="AppearanceSetting.resx">
+      <DependentUpon>AppearanceSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceiveSetting.resx">
+      <DependentUpon>ReceiveSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForm.resx">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolWindow.resx">
+      <DependentUpon>ToolWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="MetroFramework.snk" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CaptureImageTool\CaptureImageTool.csproj">
+      <Project>{9981E63A-5CF4-4B67-8892-97455177D55E}</Project>
+      <Name>CaptureImageTool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControlLibrary\ControlsLibrary.csproj">
+      <Project>{6F3F740E-92FB-40CB-A8C6-3E406CD919B1}</Project>
+      <Name>ControlsLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cyotek.Windows.Forms.ColorPicker\Cyotek.Windows.Forms.ColorPicker.csproj">
+      <Project>{FB2A5786-CD2E-42CE-BC5D-0FCE90034221}</Project>
+      <Name>Cyotek.Windows.Forms.ColorPicker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FastColoredTextBox\FastColoredTextBox.csproj">
+      <Project>{6dd14a85-ccfc-4774-bd26-0f5772512319}</Project>
+      <Name>FastColoredTextBox</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework.Design\MetroFramework.Design.csproj">
+      <Project>{7316584d-9a16-4280-a8ab-6d45198c6e4d}</Project>
+      <Name>MetroFramework.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework.Fonts\MetroFramework.Fonts.csproj">
+      <Project>{5a2fcae8-c2fa-41bd-90ea-16103ea07b26}</Project>
+      <Name>MetroFramework.Fonts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework\MetroFramework.csproj">
+      <Project>{bb41ac8b-cbed-4387-a7e0-4567edb3f57f}</Project>
+      <Name>MetroFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroSetUI\MetroSet UI.csproj">
+      <Project>{246951dc-5e33-4a86-9498-a03f9d784efa}</Project>
+      <Name>MetroSet UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinFormsUI\ThemeVS2015.csproj">
+      <Project>{007d4ac8-948f-4816-86ad-b9d1343672c1}</Project>
+      <Name>ThemeVS2015</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinFormsUI\WinFormsUI.csproj">
+      <Project>{C75532C4-765B-418E-B09B-46D36B2ABDB1}</Project>
+      <Name>WinFormsUI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\ArrowDown.bmp" />
+    <None Include="Images\ArrowUp.bmp" />
+    <None Include="Images\Bitmap.ico" />
+    <None Include="Images\BlankIcon.ico" />
+    <None Include="Images\ClosedFolder.ICO" />
+    <None Include="Images\CSFile.ico" />
+    <None Include="Images\CSProject.ico" />
+    <None Include="Images\File.ico" />
+    <None Include="Images\Form.ico" />
+    <None Include="Images\Mouse.bmp" />
+    <None Include="Images\msenv22.ico" />
+    <None Include="Images\New.ico" />
+    <None Include="Images\Open.ico" />
+    <None Include="Images\OpenFolder.ICO" />
+    <None Include="Images\OutputWindow.ico" />
+    <None Include="Images\PropertyWindow.ico" />
+    <None Include="Images\Reference.ico" />
+    <None Include="Images\References.ico" />
+    <None Include="Images\SolutionExplorer.ico" />
+    <None Include="Images\TaskListWindow.ico" />
+    <None Include="Images\ToolboxWindow.ico" />
+    <None Include="Images\XmlFile.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\DockPanel.xml" />
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="license.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Logo.ico" />
+    <Content Include="Images\SplashScreen.png" />
+    <None Include="Resources\zoom-in.png" />
+    <None Include="Resources\zoom-out.png" />
+    <None Include="Resources\search-advanced.png" />
+    <None Include="Resources\settings1.png" />
+    <Content Include="terminal_root_128px.ico" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\connection_error_alt.ico" />
+    <None Include="Resources\connect_alt.ico" />
+    <None Include="Resources\color-picker.png" />
+    <None Include="Resources\color-swatch.png" />
+    <None Include="Resources\connect-alt-1.png" />
+    <None Include="Resources\MD-stop.png" />
+    <None Include="Resources\list.png" />
+    <None Include="Resources\view1.png" />
+    <None Include="Resources\view_27.421221864952px_1170615_easyicon.net.png" />
+    <None Include="Resources\browser_16px_1137778_easyicon.net.png" />
+    <None Include="Resources\cog_16px_1170420_easyicon.net.png" />
+    <None Include="Resources\code_16px_1137823_easyicon.net.png" />
+    <None Include="Resources\command_16px_1170422_easyicon.net.png" />
+    <None Include="Resources\minus_16px_1137913_easyicon.net.png" />
+    <None Include="Resources\plus_16px_1137939_easyicon.net.png" />
+    <None Include="Resources\plus_16px_1170535_easyicon.net.png" />
+    <None Include="Resources\list_add_below_32px_1116301_easyicon.net.png" />
+    <None Include="Resources\list_add_below_48px_1116301_easyicon.net.png" />
+    <None Include="Resources\list_add_below_64px_1116301_easyicon.net.png" />
+    <None Include="Resources\minus_32px_1116376_easyicon.net.png" />
+    <None Include="Resources\minus_24px_1116376_easyicon.net.png" />
+    <None Include="Resources\list_add_16px_1116302_easyicon.net.png" />
+    <None Include="Resources\document-new.png" />
+    <None Include="Resources\info1.png" />
+    <None Include="Resources\alert-alt.png" />
+    <None Include="Resources\alert.png" />
+    <None Include="Resources\content.png" />
+    <None Include="Resources\comment.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\about.png" />
+    <None Include="Resources\toolbox.png" />
+    <None Include="Resources\padlock-closed1.png" />
+    <None Include="Resources\drawers-alt-1.png" />
+    <None Include="Resources\view.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\window.png" />
+    <None Include="Resources\switch-off.png" />
+    <None Include="Resources\file-remove.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\user-alt-1.png" />
+    <None Include="Resources\edit-document.png" />
+    <None Include="Resources\list-ordered.png" />
+    <None Include="Resources\3D-Cube2.png" />
+    <None Include="Resources\3D-Cube1.png" />
+    <None Include="Resources\map-marker-pin1.png" />
+    <None Include="Resources\3D-Cube.png" />
+    <None Include="Resources\padlock-closed.png" />
+    <None Include="Resources\window-tile.png" />
+    <None Include="Resources\window-stack.png" />
+    <None Include="Resources\window-tile-vertically.png" />
+    <None Include="Resources\window-tile-horizontally.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\padlock-open.png" />
+    <None Include="Resources\MD-volume-0.png" />
+    <None Include="Resources\bookmark-alt.png" />
+    <None Include="Resources\code.png" />
+    <None Include="Resources\layout-content.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\hierarchy.png" />
+    <None Include="Resources\read-only.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\airport.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\chat-active1.png" />
+    <None Include="Resources\connection-error-alt-1.png" />
+    <None Include="Resources\enter.png" />
+    <None Include="Resources\mail-inbox.png" />
+    <None Include="Resources\mail-sent.png" />
+    <None Include="Resources\chat-active.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\screenshot.png" />
+    <None Include="Resources\folder-open.png" />
+    <None Include="Resources\notepad.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\MD-record.png" />
+    <None Include="Resources\tags.png" />
+    <None Include="Resources\eraser.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\list-numbered.png" />
+    <None Include="Resources\file-add.png" />
+    <None Include="Resources\pushpin_sticky_16px_1.png" />
+    <None Include="Resources\MD-reload.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

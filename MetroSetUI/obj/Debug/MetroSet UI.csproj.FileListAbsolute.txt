@@ -30,3 +30,10 @@ D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetFor
 D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
 D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
 D:\GitHub\ToolSuite\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll.config
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\bin\Debug\MetroSet UI.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csprojResolveAssemblyReference.cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Forms.MetroSetForm.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\obj\Debug\MetroSet_UI.Properties.Resources.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.csproj.GenerateResource.Cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroSetUI\obj\Debug\MetroSet UI.dll

@@ -29,3 +29,11 @@ D:\GitHub\ToolSuite\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.
 D:\GitHub\ToolSuite\ToolSuite\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
 D:\GitHub\ToolSuite\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
 D:\GitHub\ToolSuite\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb

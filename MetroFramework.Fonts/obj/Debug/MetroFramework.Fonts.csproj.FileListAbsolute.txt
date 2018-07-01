@@ -19,3 +19,10 @@ D:\GitHub\ToolSuite\ToolSuite\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\bin\Debug\MetroFramework.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\bin\Debug\MetroFramework.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.csprojResolveAssemblyReference.cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework.Fonts\obj\Debug\MetroFramework.Fonts.pdb

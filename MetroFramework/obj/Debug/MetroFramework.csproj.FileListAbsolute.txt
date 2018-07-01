@@ -26,3 +26,13 @@ D:\GitHub\ToolSuite\ToolSuite\MetroFramework\obj\Debug\MetroFramework.Properties
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework\obj\Debug\MetroFramework.dll
 D:\GitHub\ToolSuite\ToolSuite\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.Controls.MetroGrid.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.Controls.MetroTextBox.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\Thoma\Documents\GitHub\ToolSuite\MetroFramework\obj\Debug\MetroFramework.pdb

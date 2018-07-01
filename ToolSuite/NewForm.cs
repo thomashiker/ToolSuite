@@ -333,7 +333,7 @@ namespace ToolSuite
             //{
             tsDropDownButtonPort.DropDownItems.Clear();
 
-            //list.Sort();
+            list.Sort();
             foreach (string drv in list)
             {
                 ToolStripItem item = tsDropDownButtonPort.DropDownItems.Add(drv);
@@ -421,7 +421,11 @@ namespace ToolSuite
 
         private void tsButtonPortRefresh_Click(object sender, EventArgs e)
         {
+            ToolStripButton bt = sender as ToolStripButton;
+
+            bt.Enabled = false;
             OnPortListChanged();
+            bt.Enabled = true;
         }
 
         private void tbBaudRate_KeyPress(object sender, KeyPressEventArgs e)
